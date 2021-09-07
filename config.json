@@ -1,0 +1,17 @@
+{
+	"app_id" : "5201235",
+	"app_hash" : "5155bbd7a66578766fca800ea6326946",
+	"api_url" : "https://api.muyan66.com/api/bets/",
+	"api_token" : "b0d15d8b-1a63-4195-8ed0-b1edda7c3816",
+	"phone" : "9151735425",
+	"username" : "kyuubijay",
+	"password" : "kaelhalley",
+	"input_channel" : "https://t.me/kaelhalley",
+	"output_channel" : "https://t.me/kyuubijay",
+	"keyword" : "Scalp Long!!!",
+    "binance-api-key-test" : "evK7IuzxhL4eLyYQGm1LoIzBUhLHwq0nRO6Q91dY0k1B3P8NIfCt8zG9vdaonpMZ",
+    "binance-api-secret-test" : "vCunrc6JP8oYMhevLs62fT4ha3UA0qlwoBlyYhzlReTzV4sTJvdM2ljD9QuX3AMt",
+	"binance-api-key" : "qaqZ5VTb5SdhirWiTQp5PwFxhYi9vLfU7Zt8c6ImT1eRO7hJ54w97oDvRvtFk9LS",
+	"binance-api-secret" : "7Dm8H9bQY2zNmsfYhJCQArU9Oi2mO3c9H9yLSGhWHopqRlNgZIklAqL1MeSrvd4b"
+
+}

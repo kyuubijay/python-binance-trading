@@ -1,0 +1,25 @@
+[
+    {
+        "orderId": 3082182304,
+        "symbol": "CHZUSDT",
+        "status": "NEW",
+        "clientOrderId": "android_8JBjVAGyHF7SlPWBFxyC",
+        "price": "0",
+        "avgPrice": "0",
+        "origQty": "0",
+        "executedQty": "0",
+        "cumQuote": "0",
+        "timeInForce": "GTE_GTC",
+        "type": "TAKE_PROFIT_MARKET",
+        "reduceOnly": True,
+        "closePosition": True,
+        "side": "SELL",
+        "positionSide": "BOTH",
+        "stopPrice": "0.40000",
+        "workingType": "MARK_PRICE",
+        "priceProtect": True,
+        "origType": "TAKE_PROFIT_MARKET",
+        "time": 1630350431462,
+        "updateTime": 1630350431462
+    }
+]
